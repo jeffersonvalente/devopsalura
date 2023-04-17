@@ -1,0 +1,1 @@
+Repositorio para o modulo de ícone Integração Contínua: testes automatizados e pipeline no Github Actions
